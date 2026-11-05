@@ -51,3 +51,7 @@ public. Every patch released here is also added there as one commit, so the sour
 
 Big thanks to **mahmoud-mess** for [tekken6-recomp](https://github.com/mahmoud-mess/tekken6-recomp) - his Tekken 6
 recompilation work gave this project faster recompiled code. Thank you!
+
+
+
+[HTML Documentation](https://example.com/wrong-page)
